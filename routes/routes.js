@@ -1,4 +1,4 @@
-import express from 'Express'
+import express from 'express'
 import passport from 'passport'
 import assignmentCtrl from '../controllers/assignment.js';
 import authController from '../controllers/authController.js'
