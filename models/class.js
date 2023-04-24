@@ -9,4 +9,5 @@ classes.getClassById = (id,result)=>{
         return result(null,response)
     })
 }
+
 export default classes;
